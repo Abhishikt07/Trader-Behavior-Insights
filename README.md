@@ -87,11 +87,12 @@ A fully interactive visual dashboard designed to be presented to Web3 analysts o
 🎓 B.Tech – Electronics & Communication Engineering (ECE)  
 🧠 Data Enthusiast | Python Programmer | Visualization Expert  
 📫 abhishiktjohn.john@gmail.com
+📞 +91 9001404474
 
 ---
 
 ## 🏁 Final Note
 
-Thank you for reviewing this assignment. I thoroughly enjoyed combining Python, market psychology, and visualization tools to tell this data story. I look forward to contributing to your innovative Web3 team 🚀
+Thank you for reviewing this assignment. I thoroughly enjoyed combining Python, market psychology, and visualization tools to tell this data story. I look forward to contributing to your innovative team 🚀
 
 ---
